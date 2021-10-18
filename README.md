@@ -26,10 +26,10 @@
   <img src="!https://user-images.githubusercontent.com/77286271/137676821-7ce2f759-8359-4d6a-b659-b397a5cbb1fa.jpeg
 ">
   <h4>наушники</h4>
-    <img src="https://user-images.githubusercontent.com/77286271/137676897-64d8f244-559d-4d68-ae84-dd0bb7582c5c.png
+    <img src="https://user-images.githubusercontent.com/77286271/137676942-8b333b28-5043-46a3-81aa-8fa39aa71c75.jpeg
 ">
   <h4>принтер</h4>
-  <img src="https://user-images.githubusercontent.com/77286271/137676942-8b333b28-5043-46a3-81aa-8fa39aa71c75.jpeg
+  <img src="https://user-images.githubusercontent.com/77286271/137676897-64d8f244-559d-4d68-ae84-dd0bb7582c5c.png
 ">
   
  </body>
