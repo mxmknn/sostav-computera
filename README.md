@@ -12,8 +12,10 @@
 ">
   <h3>оперативка (10000руб 1шт)</h3>
   <img src="https://user-images.githubusercontent.com/77286271/137675898-a7722f77-3ff0-435c-bc00-b1691bf43e2a.png">
-  <h3>Блок питания</h3>
-   <img src="">
+  <h3>Блок питания 5000руб</h3>
+   <img src="https://user-images.githubusercontent.com/77286271/137676044-a2d36041-5ba8-43ff-8f54-f215b84d1bfb.png">
+  <h3>винчестер</h3>
+  <img src="https://user-images.githubusercontent.com/77286271/137676195-71e3f723-ea91-4283-9b03-abed7f643322.jpeg">
    <h3>внешние устройства</h3>
    <img src="https://user-images.githubusercontent.com/77286271/137674979-7f41f13e-125c-4d34-b078-33c8b857ecdf.gif">
  </body>
